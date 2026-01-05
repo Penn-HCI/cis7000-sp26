@@ -1,0 +1,28 @@
+/* Penn HCI Custom Fonts */
+/* Fonts are loaded via layouts/partials/extend_head.html */
+
+/* Apply Source Sans 3 to body text */
+body {
+    font-family: 'Source Sans 3', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+/* Apply Libre Baskerville to all headings */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Libre Baskerville', Georgia, Cambria, "Times New Roman", Times, serif;
+    font-weight: 700;
+}
+
+/* Also apply to post titles and site title */
+.post-title,
+.page-title,
+.home-info h1,
+.archive-year {
+    font-family: 'Libre Baskerville', Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+/* Ensure navigation uses body font */
+/* nav,
+.nav,
+.menu {
+    font-family: 'Source Sans 3', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+} */

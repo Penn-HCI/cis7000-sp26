@@ -1,0 +1,69 @@
+/* Penn HCI Custom Colors */
+/* Using neutral #484848, primary #ee3d6e, secondary #4a72b7 */
+
+:root {
+    /* Primary pink/red - used for links, highlights, and primary actions */
+    --primary-rgb: 238, 61, 110;
+    --primary: rgb(238, 61, 110);
+    --primary-light: rgb(250, 165, 191);
+    --primary-dark: rgb(185, 28, 70);
+
+    /* Secondary blue - used for accents */
+    --secondary-rgb: 74, 114, 183;
+    --secondary: rgb(74, 114, 183);
+    --secondary-light: rgb(151, 191, 234);
+
+    /* Neutral gray - used for text and neutral elements */
+    --neutral: rgb(72, 72, 72);
+    --neutral-light: rgb(163, 163, 163);
+    --neutral-dark: rgb(38, 38, 38);
+
+    /* Override PaperMod default colors for light mode */
+    --content: var(--neutral);
+    --tertiary: rgb(212, 212, 212); /* Keep light gray for subtle elements */
+    --border: rgb(229, 229, 229);
+}
+
+:root[data-theme="dark"] {
+    /* Adjusted colors for dark mode */
+    --primary: rgb(245, 107, 148); /* Lighter pink for dark backgrounds */
+    --primary-light: rgb(252, 202, 217);
+    --primary-dark: rgb(220, 38, 87);
+
+    --secondary: rgb(102, 157, 223); /* Lighter blue for dark backgrounds */
+    --secondary-light: rgb(194, 217, 242);
+
+    /* Dark mode text colors */
+    --content: rgb(196, 196, 197);
+    --tertiary: rgb(65, 66, 68);
+    --border: rgb(51, 51, 51);
+}
+
+/* Apply primary color to links */
+a,
+a:hover {
+    color: var(--primary);
+}
+
+/* Apply secondary color to code elements */
+code {
+    color: var(--secondary);
+}
+
+/* Button and interactive elements (exclude theme-toggle) */
+.button {
+    background-color: var(--primary);
+}
+
+.button:hover {
+    background-color: var(--primary-dark);
+}
+
+/* Explicitly exclude theme toggle from button styling */
+button#theme-toggle {
+    background-color: transparent;
+}
+
+button#theme-toggle:hover {
+    background-color: transparent;
+}
