@@ -5,7 +5,6 @@
 
 env = "production"
 defaultTheme = "auto"
-ShowReadingTime = true
 ShowShareButtons = false
 ShowPostNavLinks = true
 ShowBreadCrumbs = false

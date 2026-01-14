@@ -3,16 +3,7 @@
 # Menu entries are ordered by weight (lowest to highest).
 
 [[main]]
-  name = "Syllabus"
-  url = "#syllabus"
+  name = "Commentary Guidelines"
+  url = "commentary"
   weight = 10
 
-[[main]]
-  name = "Schedule"
-  url = "#schedule"
-  weight = 20
-
-[[main]]
-  name = "Course Staff"
-  url = "#staff"
-  weight = 30
