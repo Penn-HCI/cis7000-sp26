@@ -3,7 +3,12 @@
 # Menu entries are ordered by weight (lowest to highest).
 
 [[main]]
+  name = "Schedule & Readings"
+  url = "schedule"
+  weight = 10
+
+[[main]]
   name = "Commentary Guidelines"
   url = "commentary"
-  weight = 10
+  weight = 20
 
