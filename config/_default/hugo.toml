@@ -3,7 +3,7 @@
 # https://adityatelange.github.io/hugo-PaperMod/
 
 baseURL = "https://penn-hci.github.io/cis7000-sp26/"
-theme = "PaperMod"
+theme = ["hugo-admonitions", "PaperMod"]
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
