@@ -38,7 +38,7 @@ A smartphone contains a variety of sensors that can be used to track all kinds o
 
 How do we manage the privacy tradeoffs inherent in ubicomp technology? Nissembaum's theory of contextual integrity is a central idea in ubiquitous computing, and one that helps us articulate how and when we might view our privacy as been violated in IoT or ubicomp contexts. What do you think of the theory? How might you extend it?
 
-## 1/27: Design Cognition
+## 1/27: Design Cognition (Quiz 1)
 
 [Slides (posted after class)](#)
 
@@ -78,7 +78,7 @@ This book provides foundational theory that we draw on in HCI design: what is co
 
 Work in design tools has drawn on AI and data-driven models to support the reflection element of reflection-in-action. In particular, designers often have to imagine how people will react to their designs. This paper is one of the first to demonstrate that, within certain constraints, those reactions could be simulated eﬀectively by an AI. Think about the other forms of feedback, and other kinds of designs, that could be supported by this kind of approach.
 
-## 2/5: Social Media
+## 2/5: Social Media (Quiz 2)
 
 [Slides (posted after class)](#)
 
@@ -144,7 +144,7 @@ Could tools help us make sure we are asking the right questions when we run stat
 
 How might we develop AI systems that manage inherent disagreement in what ought to be the 'correct' label? Jury learning offers one response: articulate _whose_ voices should determine the AI's behavior. What works about this representation, and what alternatives might improve upon it?
 
-## 2/24: Content Creation
+## 2/24: Content Creation (Quiz 3)
 
 [Slides (posted after class)](#)
 
@@ -174,7 +174,7 @@ Jef Raskin was an HCI expert who led the Macintosh project at Apple. In this cha
 
 How might we craft simulations of human individuals and societies that reflect our lives? Many of the core design challenges in human-computer interaction that we discussed in this class, from building computational tools to designing computer-mediated social interactions, must reckon with the complex nature of our world and the way individuals behave and interact with technology. Generative agents point to a future in which the power to simulate hypothetical worlds, where we can ask 'what if' counterfactual questions and paint concrete pictures of how a multiverse of different possibilities might unfold, promises an opportunity to navigate this complexity. This week, reflect on how generative agents extend the original visions of the foundational literature on cognitive models that we covered in this class (e.g., GOMS, KLM) in the era of generative AI models. How might these simulacra of human behaviors inform the design of our interactions, and what new interaction paradigms will these agents enable? 
 
-## 3/5: Methodology
+## 3/5: Methodology (Quiz 4)
 
 [Slides (posted after class)](#)
 
@@ -240,7 +240,7 @@ As discussed earlier in the class, this work empirically measures some of the wa
 
 [Discussion]()
 
-## 4/7: Tools for Thought
+## 4/7: Tools for Thought (Quiz 5)
 
 [Slides (posted after class)](#)
 
