@@ -45,7 +45,7 @@ Students should submit a [short commentary](./commentary) for each individual re
 
 ### Quizzes (40%)
 
-There will be four in-class quizzes, about once every three weeks, worth 10% each. All quizzes will be closed-note. They will ask you to recognize and apply concepts from lecture. Each quiz will cover content spanning from the lecture day of the previous quiz up until, but not including, the current quiz’s day. For example, if Quiz 1 were held on Thursday of Week 4, it would cover the first lecture of Week 1 through the first lecture of Week 4.
+There will be five in-class quizzes, about once every three weeks, worth 10% each. All quizzes will be closed-note. They will ask you to recognize and apply concepts from lecture. Each quiz will cover content spanning from the lecture day of the previous quiz up until, but not including, the current quiz’s day. For example, if Quiz 1 were held on Thursday of Week 4, it would cover the first lecture of Week 1 through the first lecture of Week 4.
 
 ### Final Exam (20%)
 
