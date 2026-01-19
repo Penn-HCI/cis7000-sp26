@@ -236,6 +236,9 @@ As discussed earlier in the class, this work empirically measures some of the wa
 
 ## 4/2: Critical Computing
 
+> [!NOTIFY] Change in due date!
+> *In observance of Passover, commentaries will be due at 12:00 PM for the Critical Computing readings. However, there will be no penalty for lateness if commentaries are submitted by 11:59 PM.*
+
 [Slides (posted after class)](#)
 
 [Discussion]()
