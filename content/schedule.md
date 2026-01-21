@@ -12,7 +12,7 @@ ShowToc = true
 
 ## 1/20: Input & Output
 
-[Slides (posted after class)](#)
+[Slides](../slides/1-20-input-output.pdf)
 
 [Discussion](https://canvas.upenn.edu/courses/1911297/discussion_topics/10762514)
 
