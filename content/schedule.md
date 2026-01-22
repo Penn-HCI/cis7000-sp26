@@ -26,7 +26,7 @@ The Tangible Bits paper sits alongside Weiser's Ubiquitous Computing paper as on
 
 ## 1/22: Activity Sensing
 
-[Slides (posted after class)](#)
+[Slides](../slides/1-22-activity-sensing.pdf)
 
 [Discussion](https://canvas.upenn.edu/courses/1911297/discussion_topics/10768597)
 
