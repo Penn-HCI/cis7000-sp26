@@ -21,7 +21,7 @@ Suggested strategies for writing a commentary:
   - Common issues leading to low-scoring commentaries:
     - **Step 1(Reflection)**: We get lots of commentaries that are mostly summary. Don’t stop here. We’ve all read the paper. 1–2 sentences max.
     - **Step 2 (Synthesis)**: It’s easy to just lob criticisms and negativity. Too many commentaries are just lists of complaints. Instead, focus on: what’s at the core of this idea, and why is it holding sway? What might be a better version of this idea, if you’re unconvinced?
-    - **Step 3 (Future work)**: Too few commentaries cover this! Instead, ask yourself: what are applications of these ideas, and what follow-up ideas might be worth exploring?
+    - **Step 3 (Future work)**: Too few commentaries cover this! Instead, ask yourself: what are *future research directions* of these ideas, and what follow-up ideas might be worth exploring?
 
 **Commentaries are due at 11:59 PM the day before the lecture** on Canvas. Late submissions will not be accepted. We will drop the four lowest commentary grades at the end of class: meaning, you may drop four readings’ (not four days’) worth of commentaries.
 

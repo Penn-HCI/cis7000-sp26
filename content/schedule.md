@@ -38,17 +38,23 @@ A smartphone contains a variety of sensors that can be used to track all kinds o
 
 How do we manage the privacy tradeoffs inherent in ubicomp technology? Nissembaum's theory of contextual integrity is a central idea in ubiquitous computing, and one that helps us articulate how and when we might view our privacy as been violated in IoT or ubicomp contexts. What do you think of the theory? How might you extend it?
 
-## 1/27: Design Cognition (Quiz 1)
+## 1/27: Design Cognition ~(Quiz 1)~
 
-[Slides (posted after class)](#)
+[Slides](../slides/1-27-design-cognition.pdf)
 
 [Discussion](https://canvas.upenn.edu/courses/1911297/discussion_topics/10775698)
 
+For those who want more information about design, check out the
+[4120 Lectures](https://docs.google.com/spreadsheets/d/1HtNiLHNRaBDBhZ13LqZ5BlebtTfwp0TrDgJeyqwMKn8/edit?gid=1150769424#gid=1150769424).
+- [4120: Design Basics](https://drive.google.com/file/d/18cWdyydFYTrMf0UEyYy-65aWfmxBZpUc/view)
+- [4120: The Language of Design](https://drive.google.com/file/d/1_1sOceAsnR_t2m_rYI88VSc_zO05aLGB/view)
+
+
 [**The Design of Everyday Things (Chapter 2)**](https://canvas.upenn.edu/courses/1911297/files/157251958?wrap=1). Don Norman. 2013.
 
-This book is one of the best known treatises on design and HCI. Norman describes interfaces and the problems with them from the perspective of a cognitive psychologist. Chapter Two is about the psychology of everyday interactions with systems. It describes how people work with systems to get things done and more importantly what people think about as they are working with the systems. The descriptions of the gulf of execution and evaluation, the seven stages of action and the corresponding seven principles of design will recur throughout this course. What other interface design problems have you encountered where they might have been relevant?
+This book is one of the best known treatises on design and HCI. Norman describes interfaces and the problems with them from the perspective of a cognitive psychologist. Chapter Two is about the psychology of everyday interactions with systems. It describes how people work with systems to get things done and more importantly what people think about as they are working with the systems. The dhttps://penn-hci.github.io/cis7000-sp26/schedule/escriptions of the gulf of execution and evaluation, the seven stages of action and the corresponding seven principles of design will recur throughout this course. What other interface design problems have you encountered where they might have been relevant?
 
-## 1/29: Design Process
+## 1/29: Design Process (Quiz 1)
 
 [Slides (posted after class)](#)
 
