@@ -1,6 +1,3 @@
-> [!WARNING] Quiz 1 on 1/29! 
-> Due to the snow day, Quiz 1 will happen in-class on 1/29. It will cover the same topics as before, and will not include the 1/27 lecture.
-
 ## Course Description
 
 This graduate seminar equips students with the major animating theories of human-computer interaction, and connects those theories to modern innovations. We will examine foundational work in design, social computing, ubiquitous computing, cognition, and human-centered AI. We will consider how these foundations have in turn led to research advances in virtual/augmented reality, automated design tools, accessibility and collaborative support. Unlike CIS4120/5120, this course will primarily be focused on conceptual understanding rather than implementation and design practice.

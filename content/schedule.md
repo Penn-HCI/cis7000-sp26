@@ -56,7 +56,7 @@ This book is one of the best known treatises on design and HCI. Norman describes
 
 ## 1/29: Design Process (Quiz 1)
 
-[Slides (posted after class)](#)
+[Slides](../slides/1-29-design-process.pdf)
 
 [Discussion](https://canvas.upenn.edu/courses/1911297/discussion_topics/10775699)
 
