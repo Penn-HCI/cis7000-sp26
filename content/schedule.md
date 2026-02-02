@@ -84,7 +84,7 @@ This book provides foundational theory that we draw on in HCI design: what is co
 
 Work in design tools has drawn on AI and data-driven models to support the reflection element of reflection-in-action. In particular, designers often have to imagine how people will react to their designs. This paper is one of the first to demonstrate that, within certain constraints, those reactions could be simulated eﬀectively by an AI. Think about the other forms of feedback, and other kinds of designs, that could be supported by this kind of approach.
 
-## 2/5: Social Media (Quiz 2)
+## 2/5: Social Media ~(Quiz 2)~
 
 [Slides (posted after class)](#)
 
@@ -98,7 +98,7 @@ A classic of social computing, which was originally called CSCW (Computer-Suppor
 
 A second classic of social computing (Grudin calls it `groupware'). In this article in the Communications of the ACM, Jonathan Grudin lays out all the reasons why social applications fail to get over the cold start problem. These problems remain resiliently, frustratingly challenging today. Which do you feel are the most core of the problems that he articulates, and why are they the most central? Are there any core problems that he overlooked?
 
-## 2/10: Collaboration
+## 2/10: Collaboration (Quiz 2)
 
 [Slides (posted after class)](#)
 
