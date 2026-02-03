@@ -70,7 +70,7 @@ Needfinding, or developing empathy, are key processes in the design process. In 
 
 ## 2/3: Design Tools
 
-[Slides (posted after class)](#)
+[Slides](../slides/2-3-design-tools.pdf)
 
 [Discussion](https://canvas.upenn.edu/courses/1911297/discussion_topics/10776056)
 
