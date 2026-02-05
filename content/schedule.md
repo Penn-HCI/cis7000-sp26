@@ -86,7 +86,7 @@ Work in design tools has drawn on AI and data-driven models to support the refle
 
 ## 2/5: Social Media ~(Quiz 2)~
 
-[Slides (posted after class)](#)
+[Slides](../slides/2-5-social-media.pdf)
 
 [Discussion](https://canvas.upenn.edu/courses/1911297/discussion_topics/10776060)
 
