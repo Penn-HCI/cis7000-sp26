@@ -100,7 +100,7 @@ A second classic of social computing (Grudin calls it `groupware'). In this arti
 
 ## 2/10: Collaboration (Quiz 2)
 
-[Slides (posted after class)](#)
+[Slides](../slides/2-10-collaboration.pdf)
 
 [Discussion](https://canvas.upenn.edu/courses/1911297/discussion_topics/10776061)
 
