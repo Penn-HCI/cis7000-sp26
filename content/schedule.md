@@ -110,7 +110,7 @@ Rounding out a week of classics. CSCW ("computer-supported cooperative work") is
 
 ## 2/12: Society
 
-[Slides (posted after class)](#)
+[Slides](../slides/2-12-society.pdf)
 
 [Discussion](https://canvas.upenn.edu/courses/1911297/discussion_topics/10776067)
 
