@@ -255,17 +255,21 @@ As discussed earlier in the class, this work empirically measures some of the wa
 
 [Discussion]()
 
-## 4/9: HRI
+## 4/9: Tech & Policy (Guest Speaker: Ro Encarnación)
 
 [Slides (posted after class)](#)
 
 [Discussion]()
 
-## 4/14: Tech & Policy (Guest Speaker: Ro Encarnación)
+## 4/14: Spatial Computing (Guest Speaker: Violet Whitney)
 
 [Slides (posted after class)](#)
 
 [Discussion]()
+
+[**A Brief Rant on the Future of Interaction Design**](https://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/), Bret Victor
+
+[**What is Spatial UX?**](https://medium.spatialpixel.com/what-is-spatial-ux-dd10ba498bc5), Violet Whitney
 
 ## 4/16: Usable Security (Guest Speaker: Mike Hicks)
 
