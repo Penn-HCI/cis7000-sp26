@@ -124,7 +124,7 @@ What would it mean to explicitly design our sociotechnical systems with awarenes
 
 ## 2/17: Human-Centered AI
 
-[Slides (posted after class)](#)
+[Slides](../slides/2-17-human-centered-ai.pdf)
 
 [Discussion](https://canvas.upenn.edu/courses/1911297/discussion_topics/10776070)
 
