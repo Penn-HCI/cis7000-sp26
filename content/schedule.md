@@ -297,3 +297,5 @@ As discussed earlier in the class, this work empirically measures some of the wa
 [Slides (posted after class)](#)
 
 [Discussion]()
+
+## 5/7: Final Exam, 12:00 PM - 2:00 PM, Towne 303

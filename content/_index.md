@@ -44,7 +44,7 @@ Students should submit a [short commentary](./commentary) for each individual re
 
 There will be five in-class quizzes, about once every three weeks, worth 10% each. All quizzes will be closed-note. They will ask you to recognize and apply concepts from lecture. Each quiz will cover content spanning from the lecture day of the previous quiz up until, but not including, the current quiz’s day. For example, if Quiz 1 were held on Thursday of Week 4, it would cover the first lecture of Week 1 through the first lecture of Week 4.
 
-### Final Exam (20%)
+### Final Exam: May 7, 12:00 PM - 2:00 PM, Towne 303 (20%)
 
 There will be an in-person, closed-notes final exam. The exam format will be similar to the quizzes, but will cover topics from the entire semester.
 
