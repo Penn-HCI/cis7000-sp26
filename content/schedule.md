@@ -138,7 +138,7 @@ While prompting is often hailed as an accessible interface for non-AI-experts to
 
 ## 2/19: Programming and Toolkits
 
-[Slides (posted after class)](#)
+[Slides](../slides/2-19-programming-and-toolkits.pdf)
 
 [Discussion](https://canvas.upenn.edu/courses/1911297/discussion_topics/10776084)
 
@@ -164,7 +164,15 @@ Maneesh Agrawala and his collaborators developed this approach to crafting diagr
 
 [Slides (posted after class)](#)
 
-[Discussion]()
+[Discussion](https://canvas.upenn.edu/courses/1911297/discussion_topics/10867840)
+
+[**A Bayesian Cognition Approach to Improve Data Visualization**](https://canvas.upenn.edu/courses/1911297/files/159645451?wrap=1). Yea-Seul Kim, Logan A Walls, Peter Krafft, Jessica Hullman. Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems. 2019.
+
+This paper was released in a historical moment (arguably still ongoing) where the question of whether people can change their beliefs in respond to new information was top-of-mind. It poses and evaluates a framework through which we can view all data visualizations. It also illustrates one of the core challenges of HCI research: we have few tools for getting access to the inner workings of people's minds beyond asking them to speak or write about it. Pick a visualization you’ve seen recently (news, social media, work dashboards). What prior beliefs might different audiences bring to it? How might the same visualization lead to different posterior beliefs depending on those priors? Does this framework suggest any design strategies for visualization creators?
+
+[**Four Experiments on the Perception of Bar Charts**](https://canvas.upenn.edu/courses/1911297/files/159645450?wrap=1). Justin Talbot, Vidya Setlur, Anushka Anand. IEEE Transactions on Visualization and Computer Graphics. 2014.
+
+This paper uses controlled experiments to isolate specific perceptual mechanisms in bar chart reading. Findings like these illustrate that choosing an appropriate visualization isn't just about data types and appropriate encoding conventions: the data itself can cause very divergent and biased understandings. Pick one of their experiments: what specific question were they trying to answer? What did they learn that we couldn't have known from “common sense” or design intuition? How would you extend or follow up on that experiment? Or alternatively, propose your own visualization perception experiment.
 
 ## 3/3: Cognitive Models
 
