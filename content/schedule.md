@@ -152,7 +152,7 @@ How might we develop AI systems that manage inherent disagreement in what ought 
 
 ## 2/24: Content Creation (Quiz 3)
 
-[Slides (posted after class)](#)
+[Slides](../slides/2-24-content-creation.pdf)
 
 [Discussion](https://canvas.upenn.edu/courses/1911297/discussion_topics/10776085)
 
@@ -162,7 +162,7 @@ Maneesh Agrawala and his collaborators developed this approach to crafting diagr
 
 ## 2/26: Visualization (Guest Speaker: Jeff Tao)
 
-[Slides (posted after class)](#)
+[Slides](../slides/2-26-visualization.pdf)
 
 [Discussion](https://canvas.upenn.edu/courses/1911297/discussion_topics/10867840)
 
@@ -188,7 +188,7 @@ Jef Raskin was an HCI expert who led the Macintosh project at Apple. In this cha
 
 How might we craft simulations of human individuals and societies that reflect our lives? Many of the core design challenges in human-computer interaction that we discussed in this class, from building computational tools to designing computer-mediated social interactions, must reckon with the complex nature of our world and the way individuals behave and interact with technology. Generative agents point to a future in which the power to simulate hypothetical worlds, where we can ask 'what if' counterfactual questions and paint concrete pictures of how a multiverse of different possibilities might unfold, promises an opportunity to navigate this complexity. This week, reflect on how generative agents extend the original visions of the foundational literature on cognitive models that we covered in this class (e.g., GOMS, KLM) in the era of generative AI models. How might these simulacra of human behaviors inform the design of our interactions, and what new interaction paradigms will these agents enable? 
 
-## 3/5: Methodology (Quiz 4)
+## 3/5: Methodology ~~(Quiz 4)~~
 
 [Slides (posted after class)](#)
 
@@ -222,7 +222,7 @@ Wobbrock and colleagues critique the typical approach to accessibility design, w
 
 How can blind and low vision users make better use of generative AI tools such as stable diffusion? GenAssist proposes a suite of automated checks to ensure that the generated image respects the desired caption. Obviously, this kind of approach cannot be 100% accurate in its checks. Given our discussions of AI overreliance, does this make it dangerous or useless? If not, why not? What design principles might we distill for these kinds of tools? 
 
-## 3/24: ICT4D
+## 3/24: ICT4D (Quiz 4)
 
 [Slides (posted after class)](#)
 
@@ -257,13 +257,13 @@ As discussed earlier in the class, this work empirically measures some of the wa
 
 [Discussion]()
 
-## 4/7: Tools for Thought (Quiz 5)
+## 4/7: Tools for Thought ~~(Quiz 5)~~
 
 [Slides (posted after class)](#)
 
 [Discussion]()
 
-## 4/9: Tech & Policy (Guest Speaker: Ro Encarnación)
+## 4/9: Tech & Policy (Guest Speaker: Ro Encarnación) (Quiz 5)
 
 [Slides (posted after class)](#)
 
