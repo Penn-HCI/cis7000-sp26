@@ -176,7 +176,10 @@ This paper uses controlled experiments to isolate specific perceptual mechanisms
 
 ## 3/3: Cognitive Models
 
-[Slides (posted after class)](#)
+> [!INFO] Slides are different from class
+> Please note that these slides are a bit out-of-date, due to a file syncing issue. My apologies, I’m looking into this so it won’t happen again. It is still appropriate to use these slides as a reference for the main ideas. If you want to see video from lecture with the updated slides, you can watch it [here](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=31b0c3bf-1cb7-4fee-b0d2-b3cc00f11726). -AH
+
+[Slides](../slides/3-3-cognitive-models.pdf)
 
 [Discussion](https://canvas.upenn.edu/courses/1911297/discussion_topics/10776086)
 
@@ -190,7 +193,9 @@ How might we craft simulations of human individuals and societies that reflect o
 
 ## 3/5: Methodology ~~(Quiz 4)~~
 
-[Slides (posted after class)](#)
+
+
+[Slides](../slides/3-5-methodology.pdf)
 
 [Discussion](https://canvas.upenn.edu/courses/1911297/discussion_topics/10776088)
 
