@@ -213,6 +213,14 @@ Pick a chapter representing a method that you're interested in learning more abo
 
 [Discussion]()
 
+[**Download Experimental evidence of massive-scale emotional contagion through social networks**](https://canvas.upenn.edu/courses/1911297/files/160323795?wrap=1). Adam D. I. Kramer, Jamie E. Guillory, and Jeffrey T. Hancock. Proceedings of the National Academy of Sciences of the United States of America. 2014.
+
+The 2014 Facebook emotional contagion study is a highly controversial paper in modern HCI. The paper received backlash from both the HCI community and the general public at the time of its publication. While reading the paper, take a close look at the methodology, the claims made by the authors, and the results. If you were on a review committee evaluating this study, what specific questions or concerns would you raise? What implication of this paper do you think had such a strong impact on the general public?
+
+[**StudentLife: Assessing Mental Health, Academic Performance and Behavioral Trends of College Students using Smartphones**](https://canvas.upenn.edu/courses/1911297/files/160323956?wrap=1). Rui Wang, Fanglin Chen, Zhenyu Chen, Gabriella M. Harari, Stefanie Tignor, Xia Zhou, Dror Ben-Zeev, and Andrew T. Campbell. Proceedings of the 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing. 2014.
+
+In this paper, researchers used continuous, background smartphone sensing (and user surveys) to monitor students' well-being and stress levels. What do you think are the potential pros and cons of this type of research? Consider the validity of the research, the claims the researchers can make, and the potential future outcomes as a result of this work.
+
 ## 3/19: Accessibility
 
 [Slides (posted after class)](#)
