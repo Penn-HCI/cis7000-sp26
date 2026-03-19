@@ -261,6 +261,10 @@ As discussed earlier in the class, this work empirically measures some of the wa
 
 [Discussion]()
 
+[**Cognitive tutors: Lessons learned**](https://canvas.upenn.edu/courses/1911297/files/160855845?wrap=1).  Anderson, J. R., Corbett, A. T., Koedinger, K. R., & Pelletier, R. The journal of the learning sciences, 4(2) (1995).
+
+[**Oak Story: Improving Learner Outcomes with LLM-Mediated Interactive Narratives**](https://canvas.upenn.edu/courses/1911297/files/160855854?wrap=1). Cheng, Alan Y., Carolyn Q. Zou, Anthony Xie, Matthew Hsu, Felicia Yan, Felicity Huang, David K. Zhang et al. UIST 2025.
+
 ## 4/2: Critical Computing
 
 > [!NOTIFY] Change in due date!
@@ -275,6 +279,10 @@ As discussed earlier in the class, this work empirically measures some of the wa
 [Slides (posted after class)](#)
 
 [Discussion]()
+
+[**Personal Dynamic Media**](https://canvas.upenn.edu/courses/1911297/files/160855862?wrap=1). Kay, Alan, and Adele Goldberg. Computer 10, no. 3 (1977).
+
+[**AI, help me think—but for myself: Assisting people in complex decision-making by providing different kinds of cognitive support**)](https://canvas.upenn.edu/courses/1911297/files/160855856?wrap=1).  Reicherts, Leon, Zelun Tony Zhang, Elisabeth Von Oswald, Yuanting Liu, Yvonne Rogers, and Mariam Hassib. CHI 2025.
 
 ## 4/9: Tech & Policy (Guest Speaker: Ro Encarnación) (Quiz 5)
 
