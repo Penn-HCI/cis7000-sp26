@@ -209,9 +209,9 @@ Pick a chapter representing a method that you're interested in learning more abo
 
 ## 3/17: Mental Health Tech (Guest Speaker: Talie Massachi)
 
-[Slides (posted after class)](#)
+[Slides](../slides/3-17-mental-health.pdf)
 
-[Discussion]()
+[Discussion](https://canvas.upenn.edu/courses/1911297/discussion_topics/10904040)
 
 [**Download Experimental evidence of massive-scale emotional contagion through social networks**](https://canvas.upenn.edu/courses/1911297/files/160323795?wrap=1). Adam D. I. Kramer, Jamie E. Guillory, and Jeffrey T. Hancock. Proceedings of the National Academy of Sciences of the United States of America. 2014.
 
@@ -223,7 +223,7 @@ In this paper, researchers used continuous, background smartphone sensing (and u
 
 ## 3/19: Accessibility
 
-[Slides (posted after class)](#)
+[Slides](../slides/3-19-accessibility.pdf)
 
 [Discussion](https://canvas.upenn.edu/courses/1911297/discussion_topics/10776089)
 
@@ -253,7 +253,7 @@ As discussed earlier in the class, this work empirically measures some of the wa
 
 [Slides (posted after class)](#)
 
-[Discussion]()
+[Discussion](https://canvas.upenn.edu/courses/1911297/discussion_topics/10777432)
 
 ## 3/31: Ed Tech
 
