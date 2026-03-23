@@ -255,15 +255,27 @@ As discussed earlier in the class, this work empirically measures some of the wa
 
 [Discussion](https://canvas.upenn.edu/courses/1911297/discussion_topics/10777432)
 
+[**Auditing Algorithms: Research Methods for Detecting Discrimination on Internet Platforms**](https://canvas.upenn.edu/courses/1911297/files/160796030?wrap=1). Christian Sandvig, Kevin Hamilton, Karrie Karahalios, & Cedric Langbort. Data and Discrimination: Converting Critical Concerns into Productive: A preconference at the 64th Annual Meeting of the International Communication Association. 2014. 
+
+This is the first paper to articulate the methodological strategy known as Algorithm Auditing (and today often more broadly referred to as “AI auditing”). What do the authors cite as motivation? Can you think of any other types of auditing besides the five outlined in the paper? What are some major strengths and limitations of the method?
+
+[**Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification**](https://canvas.upenn.edu/courses/1911297/files/160796213?wrap=1). Joy Buolamwini and Timnit Gebru. Conference on Fairness, Accountability, and Transparency. 2018.
+
+This was a very high-profile audit that catapulted the method into greater public consciousness. Have you heard of this example or others like it? Why do you think it had such a significant impact? What implications does this paper have for the real world — in other words, if the disparities reported were fixed, what effects could that have?
+
 ## 3/31: Ed Tech
 
 [Slides (posted after class)](#)
 
-[Discussion]()
+[Discussion](https://canvas.upenn.edu/courses/1911297/discussion_topics/10777433)
 
 [**Cognitive tutors: Lessons learned**](https://canvas.upenn.edu/courses/1911297/files/160855845?wrap=1).  Anderson, J. R., Corbett, A. T., Koedinger, K. R., & Pelletier, R. The journal of the learning sciences, 4(2) (1995).
 
+One of the durable system architectures in educational technology is the "intelligent tutoring system," where a system models a learner and  adapts the content it shows to that which it thinks will be most productive for them to master new knowledge. This paper provides an articulation of one kind of intelligent tutoring system developed among researchers at Carnegie Mellon University that saw quite a bit of success at the time. In this paper's description of cognitive tutors, how are users modeled? What might these models be missing? What are the situations where you think cognitive tutors like these could be reasonably developed and deployed? Could the kinds of generative AI we have today help in creation of cognitive tutors as defined by these authors?
+
 [**Oak Story: Improving Learner Outcomes with LLM-Mediated Interactive Narratives**](https://canvas.upenn.edu/courses/1911297/files/160855854?wrap=1). Cheng, Alan Y., Carolyn Q. Zou, Anthony Xie, Matthew Hsu, Felicia Yan, Felicity Huang, David K. Zhang et al. UIST 2025.
+
+As technology evolves, it may become possible to engage people with new kinds of learning experiences. This paper envisions a learning experience that capitalizes on two recent technological developments: commodity augmented reality on phones, and LLM-based AI. When you're reading this paper, ask yourself, what is old about this system? i.e., what ideas does it borrow from the kinds of cognitive tutors described in the other reading? And what is new? Are you convinced that the new aspects could lead to substantially better learning? Is it setting-dependent?
 
 ## 4/2: Critical Computing
 
