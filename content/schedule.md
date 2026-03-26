@@ -237,7 +237,7 @@ How can blind and low vision users make better use of generative AI tools such a
 
 ## 3/24: ICT4D (Quiz 4)
 
-[Slides (posted after class)](#)
+[Slides](../slides/3-24-ict4d.pdf)
 
 [Discussion](https://canvas.upenn.edu/courses/1911297/discussion_topics/10776090)
 
@@ -249,9 +249,9 @@ ICT4D focuses on interactive technology support for global populations, and in p
 
 As discussed earlier in the class, this work empirically measures some of the ways that unintended biases can impact your conclusions about your design. What else ought we to look out for? How should we go about doing design that is globally inclusive? 
 
-## 3/26: Algorithm Auditing
+## 3/26: AI Auditing
 
-[Slides (posted after class)](#)
+[Slides](../slides/3-26-ai-auditing.pdf)
 
 [Discussion](https://canvas.upenn.edu/courses/1911297/discussion_topics/10777432)
 
