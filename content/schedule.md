@@ -284,7 +284,15 @@ As technology evolves, it may become possible to engage people with new kinds of
 
 [Slides (posted after class)](#)
 
-[Discussion]()
+[Discussion](https://canvas.upenn.edu/courses/1911297/discussion_topics/10777434)
+
+[What is "critical" about critical design?](https://canvas.upenn.edu/courses/1911297/files/161101118?wrap=1) Jeffrey Bardzell & Shaowen Bardzell. CHI. 2013.
+
+This paper articulates a shift in HCI from research asking lower-level questions about usability to a field that takes “its own sociocultural significance [seriously]” by focusing on social justice, value-centered design, and so on. Do you think critical design can be effective? Under what conditions? Can you think of any other examples of critical design like those analyzed in this piece, whether or not they are explicitly billed as such? Can you imagine any such projects you yourself would be interested in seeing or pursuing?
+
+[Postcolonial computing: a lens on design and development](https://canvas.upenn.edu/courses/1911297/files/161101150?wrap=1). Lilly Irani, Janet Vertesi, Paul Dourish, Kavita Philip, & Rebecca E. Grinter. CHI. 2010.
+
+This piece revisits a topic from a couple weeks ago, ICT4D (also called HCI4D), and presents an argument that the field must shift to include insights from STS and postcolonial studies. How do some of the previous readings in this course measure up to this new vision? Put differently, how might that research be done differently from a postcolonial angle? As the future is increasingly globalized, how will the ideas of postcolonial computing age?
 
 ## 4/7: Tools for Thought ~~(Quiz 5)~~
 
@@ -294,7 +302,11 @@ As technology evolves, it may become possible to engage people with new kinds of
 
 [**Personal Dynamic Media**](https://canvas.upenn.edu/courses/1911297/files/160855862?wrap=1). Kay, Alan, and Adele Goldberg. Computer 10, no. 3 (1977).
 
+Kay and Goldberg's article on Personal Dynamic Media is at the same time wildly aspirational and practical. On the one hand, Kay and Goldberg aim to develop tools to externalize memory, support problem solving, and enable creative expression. Today, these sound like routine capabilities of computers. On the other hand, they aspire to developing an active "metamedium" that capitalizes on a computer's power to simulate everything, and use that power to support new forms of experimentation, discovery, and creativity. This part of the vision still feels fresh. Do you think the computers we have now have lived up to Kay and Goldberg's vision? If not, what is preventing them from doing so?
+
 [**AI, help me think—but for myself: Assisting people in complex decision-making by providing different kinds of cognitive support**)](https://canvas.upenn.edu/courses/1911297/files/160855856?wrap=1).  Reicherts, Leon, Zelun Tony Zhang, Elisabeth Von Oswald, Yuanting Liu, Yvonne Rogers, and Mariam Hassib. CHI 2025.
+
+This paper asks how we could adapt some of today's pervasive AI tools to help us arrive at better decisions. It compares two models of AI decision support. Do you think one or the other is better? This study compares only two options. What are some other ways that an AI might prepare and display recommendations the support the kinds of decisions you are familiar with?
 
 ## 4/9: Tech & Policy (Guest Speaker: Ro Encarnación) (Quiz 5)
 
