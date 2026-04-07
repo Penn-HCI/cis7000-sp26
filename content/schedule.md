@@ -265,7 +265,7 @@ This was a very high-profile audit that catapulted the method into greater publi
 
 ## 3/31: Ed Tech
 
-[Slides (posted after class)](#)
+[Slides](../slides/3-31-ed-tech.pdf)
 
 [Discussion](https://canvas.upenn.edu/courses/1911297/discussion_topics/10777433)
 
