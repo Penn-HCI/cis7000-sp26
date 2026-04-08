@@ -298,7 +298,7 @@ This piece revisits a topic from a couple weeks ago, ICT4D (also called HCI4D), 
 
 [Slides](../slides/4-7-tools-for-thought.pdf)
 
-[Discussion]()
+[Discussion](https://canvas.upenn.edu/courses/1911297/discussion_topics/10777449)
 
 [**Personal Dynamic Media**](https://canvas.upenn.edu/courses/1911297/files/160855862?wrap=1). Kay, Alan, and Adele Goldberg. Computer 10, no. 3 (1977).
 
@@ -312,7 +312,7 @@ This paper asks how we could adapt some of today's pervasive AI tools to help us
 
 [Slides (posted after class)](#)
 
-[Discussion]()
+[Discussion](https://canvas.upenn.edu/courses/1911297/discussion_topics/10777450)
 
 [**The policy knot: re-integrating policy, practice and design in cscw studies of social computing**](https://canvas.upenn.edu/courses/1911297/files/161315322?wrap=1). Steven J. Jackson, Tarleton Gillespie, and Sandy Payette. CSCW. 2014.
 
@@ -327,7 +327,7 @@ Earlier in the course we read about feminist HCI and ability-based design which 
 
 [Slides (posted after class)](#)
 
-[Discussion]()
+[Discussion](https://canvas.upenn.edu/courses/1911297/discussion_topics/10943185)
 
 [**A Brief Rant on the Future of Interaction Design**](https://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/), Bret Victor
 
