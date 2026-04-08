@@ -282,7 +282,7 @@ As technology evolves, it may become possible to engage people with new kinds of
 > [!NOTIFY] Change in due date!
 > *In observance of Passover, commentaries will be due at 12:00 PM for the Critical Computing readings. However, there will be no penalty for lateness if commentaries are submitted by 11:59 PM.*
 
-[Slides (posted after class)](#)
+[Slides](../slides/4-2-critical-computing.pdf)
 
 [Discussion](https://canvas.upenn.edu/courses/1911297/discussion_topics/10777434)
 
@@ -296,7 +296,7 @@ This piece revisits a topic from a couple weeks ago, ICT4D (also called HCI4D), 
 
 ## 4/7: Tools for Thought ~~(Quiz 5)~~
 
-[Slides (posted after class)](#)
+[Slides](../slides/4-7-tools-for-thought.pdf)
 
 [Discussion]()
 
@@ -314,6 +314,15 @@ This paper asks how we could adapt some of today's pervasive AI tools to help us
 
 [Discussion]()
 
+[**The policy knot: re-integrating policy, practice and design in cscw studies of social computing**](https://canvas.upenn.edu/courses/1911297/files/161315322?wrap=1). Steven J. Jackson, Tarleton Gillespie, and Sandy Payette. CSCW. 2014.
+
+Earlier in the course we read about feminist HCI and ability-based design which argue that design choices encode values, whether intentionally or not. The Policy Knot makes a similar argument about policy: it is already embedded in every design choice. As you read, think about one design choice from any paper we've read this semester that also functioned or could function as a policy decision, even if no one called it that.
+
+
+[**The Future of HCI-Policy Collaboration**](https://canvas.upenn.edu/courses/1911297/files/161315304?wrap=1). Qian Yang, Richmond Y. Wong, Steven Jackson, Sabine Junginger, Margaret D. Hagan, Thomas Gilbert, and John Zimmerman. CHI. 2024. 
+
+10 years after Jackson et al.’s work, this paper also makes the case that HCI research and policymaking already intersect and argues we need to do it more intentionally. What does the paper say that looks like in practice? How does (or doesn’t) their vision for the future of HCI change how you think about the research we've read this semester?
+
 ## 4/14: Spatial Computing (Guest Speaker: Violet Whitney)
 
 [Slides (posted after class)](#)
@@ -322,7 +331,11 @@ This paper asks how we could adapt some of today's pervasive AI tools to help us
 
 [**A Brief Rant on the Future of Interaction Design**](https://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/), Bret Victor
 
+Bret Victor paints a vision of interfaces that go beyond "sliding fingers on pictures under glass", instead leveraging the more complex senses and manipulations that our hands are capable of. Do you agree with him that "sliding fingers on pictures under glass" is a problematic vision for the future of interfaces? And do you agree with him that the solution is to think about the other possibilities of interfaces that use our hands in other ways? Why or why not?
+
 [**What is Spatial UX?**](https://medium.spatialpixel.com/what-is-spatial-ux-dd10ba498bc5), Violet Whitney
+
+Violet Whitney criticizes how current interfaces isolate us from our surroundings and from other people. Again, do you agree or disagree that this is a problem? If you agree, propose a specific example of how a certain computing interface/context could be made spatial. If you disagree, pick one of Whitney’s features from section 2 and argue for why you disagree with the spatial version.
 
 ## 4/16: Usable Security (Guest Speaker: Mike Hicks)
 
