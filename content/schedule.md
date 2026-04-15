@@ -345,12 +345,28 @@ Violet Whitney criticizes how current interfaces isolate us from our surrounding
 
 [Discussion]()
 
+[**A Two-Decade Retrospective Analysis of a University’s Vulnerability to Attacks Exploiting Reused Passwords**](https://canvas.upenn.edu/courses/1911297/files/161094736?wrap=1). Nisenoff, Alexandra, Maximilian Golla, Miranda Wei, Juliette Hainline, Hayley Szymanek, Annika Braun, Annika Hildebrandt, Blair Christensen, David Langenberg, and Blase Ur. USENIX Security 2023.
+
+This paper presents the results of a collaboration between researchers at the University of Chicago and their IT department to study password security practices over the course of two decades. This paper is interesting because it sheds light on how password hygiene correlates with actual security outcomes. What findings from the paper were most compelling to you, which were least compelling, and what are some ideas that come to mind for follow-on studies?
+
+[**Do Users’ Perceptions of Password Security Match Reality?**](https://canvas.upenn.edu/courses/1911297/files/161094746?wrap=1) Blase Ur, Jonathan Bees, Sean M. Segreti, Lujo Bauer, Nicolas Christin, Lorrie Faith Cranor. CHI 2016.
+
+End users are participants in the security of most applications because they are asked to set and remember passwords for authentication. For many years, application users have been exhorted to set good passwords according to various kinds of advice. This paper specifically tests users' ability to assess strong passwords compared to weak ones, where strength is determined by the ground truth measure of modern password cracking tools. Ultimately, users demonstrated a mixed ability to predict password strength. How did the results compare to your own mental model of how users would fare? What do the results suggest to you about improving password management practices?
+
 
 ## 4/21: Data + HCI (Guest Speaker: Jeff Tao)
 
 [Slides (posted after class)](#)
 
-[Discussion]()
+[Discussion](https://canvas.upenn.edu/courses/1911297/discussion_topics/10979693)
+
+[**Interactive Dynamics for Visual Analysis**](https://canvas.upenn.edu/courses/1911297/files/161780680?wrap=1). Jeffrey Heer, Ben Shneiderman. Communications of the ACM, 2012.
+
+Our first paper this week proposes a taxonomy of modes of interaction when analyzing data visually. Taxonomies can be tricky: the authors must decide what counts as "interaction," where one category ends and another begins, and what kinds of users and tasks are being served. Pick a data tool you've used or an analysis that you’ve done. Walk through the taxonomy: categories applied? For the tool/process you used, were there any categories you didn’t use? Why do you think that is? Does the taxonomy feel like it captures your experience of working with data?
+
+[**Wrangler: Interactive Visual Specification of Data Transformation Scripts**](https://canvas.upenn.edu/courses/1911297/files/161780683?wrap=1). Sean Kandel, Andreas Paepcke, Joseph Hellerstein, Jeffrey Heer. CHI 2011.
+
+Data wrangling is often treated as an annoyance—non-valuable busy work that must be completed in service of doing the *real* work of gleaning insights from data. Wrangler takes this work seriously, combining a formal, declarative language of data transformation, a workflow for suggesting these data transformations based on user demonstrations, and an interface for understanding the results when these transformations are applied to the whole dataset. Think carefully about the mechanics of suggesting transformations from demonstrations: what does the system need to "know" to make a good suggestion? How would it disambiguate cases where there are multiple potentially correct suggestions? Where might it succeed or fail? This paper is from 2011—do you think this demonstration → synthesis paradigm holds up in the current era?
 
 ## 4/23: Student Presentations
 
