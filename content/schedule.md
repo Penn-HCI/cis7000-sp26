@@ -362,7 +362,7 @@ End users are participants in the security of most applications because they are
 
 [**Interactive Dynamics for Visual Analysis**](https://canvas.upenn.edu/courses/1911297/files/161780680?wrap=1). Jeffrey Heer, Ben Shneiderman. Communications of the ACM, 2012.
 
-Our first paper this week proposes a taxonomy of modes of interaction when analyzing data visually. Taxonomies can be tricky: the authors must decide what counts as "interaction," where one category ends and another begins, and what kinds of users and tasks are being served. Pick a data tool you've used or an analysis that you’ve done. Walk through the taxonomy: categories applied? For the tool/process you used, were there any categories you didn’t use? Why do you think that is? Does the taxonomy feel like it captures your experience of working with data?
+Our first paper this week proposes a taxonomy of modes of interaction when analyzing data visually. Taxonomies can be tricky: the authors must decide what counts as "interaction," where one category ends and another begins, and what kinds of users and tasks are being served. Pick a data tool you've used or an analysis that you’ve done. Walk through the taxonomy: which categories applied? For the tool/process you used, were there any categories you didn’t use? Why do you think that is? Does the taxonomy feel like it captures your experience of working with data?
 
 [**Wrangler: Interactive Visual Specification of Data Transformation Scripts**](https://canvas.upenn.edu/courses/1911297/files/161780683?wrap=1). Sean Kandel, Andreas Paepcke, Joseph Hellerstein, Jeffrey Heer. CHI 2011.
 
